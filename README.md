@@ -1,8 +1,7 @@
 
-# API de Tarefas
+# API PIX com Flask
 
-Uma API simples construída em Python, e utilizando o framework Flask. Com um CRUD para tarefas.
-
+Esta API foi desenvolvida utilizando Flask para facilitar a criação e gerenciamento de pagamentos via PIX. Ela permite criar novos pagamentos, confirmar transações e gerar QRCodes para realização de pagamentos. A API também oferece endpoints para consulta de detalhes de pagamentos e recuperação de QRCodes em formato de imagem.
 
 ## Rodando localmente
 
